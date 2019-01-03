@@ -16,6 +16,8 @@ npm install react-slick --save
 
 **yarn**
 
+Yarn?
+
 ```bash
 yarn add react-slick
 ```
